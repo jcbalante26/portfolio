@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">JCB logo mark</title>
+  <rect width="512" height="512" rx="96" fill="#0f1f35"/>
+  <rect x="36" y="36" width="440" height="440" rx="76" fill="none" stroke="#8fa3b8" stroke-width="12"/>
+  <text x="256" y="296" text-anchor="middle" font-family="Montserrat, Arial, sans-serif" font-size="150" font-weight="700" fill="#f8fafc">JCB</text>
+  <path d="M136 344h240" stroke="#38bdf8" stroke-width="18" stroke-linecap="round"/>
+</svg>
